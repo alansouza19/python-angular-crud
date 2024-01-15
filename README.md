@@ -50,17 +50,18 @@ O projeto inclui um frontend desenvolvido em Angular na versão 16.2.0. Este fro
 # Telas
 - Tela de login
   
-![image](https://github.com/alansouza19/python-angular-crud/assets/87431289/ac41af84-e73a-4392-9e35-33d829b7a890)
+![image](https://github.com/alansouza19/python-angular-crud/assets/87431289/73a8cccd-dc3f-46d5-9538-15266898949f)
 
 
 - Home com a lista de veículos cadastrados
   
-![image](https://github.com/alansouza19/python-angular-crud/assets/87431289/793e02ed-897d-4ba4-acd0-1b0e2f566dfa)
+![image](https://github.com/alansouza19/python-angular-crud/assets/87431289/9f409ae9-fdf2-474f-966a-9da9c0d46dc8)
 
 
 - Tela de cadastro/atualizar veículo
   
-![image](https://github.com/alansouza19/python-angular-crud/assets/87431289/d6f50d7b-2939-4486-a1e9-7e31da28d9c8)
+![image](https://github.com/alansouza19/python-angular-crud/assets/87431289/be17c7b2-b4fd-4055-8095-db54159274c2)
+
 
 
 
